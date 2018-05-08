@@ -59,7 +59,7 @@ limited feature set of Notepad++, we strongly recommend moving to something
 else.
 
 ## Installing Notepad++
-1.  Download the installer
+1.  Download the installer from https://notepad-plus-plus.org/
 1.  Run the installer
 1.  Select all of the defaults
 
